@@ -10,4 +10,4 @@ A lightweight calculator application built with Python.
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/japhar1/calculator.git
+   git clone https://github.com/japhar1/PLP_SEE/blob/main/Calculator.py
